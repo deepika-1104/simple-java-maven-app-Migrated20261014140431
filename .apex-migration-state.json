@@ -1,0 +1,7 @@
+{
+  "job_id": "job_413805cdf085",
+  "sourceRepoUrl": "https://github.com/jenkins-docs/simple-java-maven-app",
+  "targetJavaVersion": "21.0.12",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
